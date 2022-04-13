@@ -4,7 +4,14 @@ Sobre: 27 anos morador de Goiânia.
 
 Pergunta: Onde aprendeu sobre Git?
     Resposta: Fazendo cursos e apanhando igual cachorro.
+<<<<<<< HEAD
 Pergunta: Sabe o nome do pai do Frodo?
     Resposta: Drogo Baggins.
 
 Qual sua principal habilidade em programação hoje?
+=======
+[Davy]Pergunta: Sabe o nome do pai do Frodo?
+    Resposta: Drogo Baggins.
+[Davy]Pergunta: Faramir Personagem de O Senhor dos Anéis?
+
+>>>>>>> d1a3262e34c232dc963a25c1214e47e7ca964a2d
