@@ -6,3 +6,5 @@ Pergunta: Onde aprendeu sobre Git?
     Resposta: Fazendo cursos e apanhando igual cachorro.
 Pergunta: Sabe o nome do pai do Frodo?
     Resposta: Drogo Baggins.
+
+Qual sua principal habilidade em programação hoje?

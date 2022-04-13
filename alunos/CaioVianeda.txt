@@ -10,3 +10,5 @@ Perguntas:
 
 2 - Qual seu feriado favorito?
 	Qualquer um que caia em uma sexta-feira hehe
+
+Qual sua principal habilidade em programação hoje?
