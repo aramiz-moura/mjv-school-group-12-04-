@@ -4,5 +4,7 @@ Sobre: 27 anos morador de Goiânia.
 
 Pergunta: Onde aprendeu sobre Git?
     Resposta: Fazendo cursos e apanhando igual cachorro.
-Pergunta: Sabe o nome do pai do Frodo?
+[Davy]Pergunta: Sabe o nome do pai do Frodo?
     Resposta: Drogo Baggins.
+[Davy]Pergunta: Faramir Personagem de O Senhor dos Anéis?
+
