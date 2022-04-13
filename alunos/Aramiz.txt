@@ -15,3 +15,6 @@ Qual sua principal habilidade em programação hoje?
 [Davy]Pergunta: Faramir Personagem de O Senhor dos Anéis?
 
 >>>>>>> d1a3262e34c232dc963a25c1214e47e7ca964a2d
+
+[Carol] Pergunta: Qual o seu sabor favorito de pizza?
+

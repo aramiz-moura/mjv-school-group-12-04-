@@ -12,3 +12,5 @@ Perguntas:
 Pediatria Serviço Social (UNICAMP)
 
 [Gui]Pergunta: Porque você começou a programar, ou, querer programar?
+
+[Carol]Pergunta: Qual sua cor favorita?
