@@ -10,3 +10,5 @@ Perguntas:
 
 2- Qual é/era sua carreira human ?
 Pediatria Serviço Social (UNICAMP)
+
+[Gui]Pergunta: Porque você começou a programar, ou, querer programar?

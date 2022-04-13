@@ -3,3 +3,5 @@ email: israel-w@hotmail.com
 email alternativo: israelwy63@gmail.com
 Sobre: estudante de programação
 
+[Gui]Pergunta: Qual jogo você mais joga?
+
