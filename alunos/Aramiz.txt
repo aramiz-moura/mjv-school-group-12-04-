@@ -1,3 +1,5 @@
 Nome: Meu nome é Aramiz Moura.
 E-mail: aramiz.moura.gyn@gmail.com
 Sobre: 27 anos morador de Goiânia.
+
+Pergunta: Onde aprendeu sobre Git?
