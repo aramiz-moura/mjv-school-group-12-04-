@@ -6,5 +6,5 @@ Sobre: Meu nome é Guilherme, tenho 27 anos e amo programar!
 -----------------------------------PERGUNTAS---------------------------------------------
 -----------------------------------------------------------------------------------------*
 
-1º
-R: Tem quanto tempo que você está na área de TI?
+1º Tem quanto tempo que você está na área de TI?
+R: Mais de 8 anos, mas em carteira mesmo apenas 7 meses.
