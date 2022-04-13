@@ -6,5 +6,7 @@ Tenho 20 anos e amo pão de alho :)
 
 Perguntas: 
 1 - Qual sua principal habilidade em programação hoje?
+	R: JavaScript XD
 
 2 - Qual seu feriado favorito?
+	Qualquer um que caia em uma sexta-feira hehe
