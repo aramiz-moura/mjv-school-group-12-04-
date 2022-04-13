@@ -7,4 +7,4 @@ Sobre: Meu nome é Guilherme, tenho 27 anos e amo programar!
 -----------------------------------------------------------------------------------------*
 
 1º
-R:
+R: Tem quanto tempo que você está na área de TI?
