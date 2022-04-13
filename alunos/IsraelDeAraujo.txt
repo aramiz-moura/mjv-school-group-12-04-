@@ -3,7 +3,3 @@ email: israel-w@hotmail.com
 email alternativo: israelwy63@gmail.com
 Sobre: estudante de programação
 
-Perguntas: 
-1 - Qual sua principal habilidade em programação hoje?
-
-2 - Qual seu feriado favorito?
