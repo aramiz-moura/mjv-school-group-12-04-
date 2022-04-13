@@ -3,6 +3,7 @@ Email:davykog2012@gmail.com
 sobre: Gosto de animes e jogos
 
 Pergunta: Qual a diferença entre gitch fetch e git pull?
+De modo simplório, o git fetch buscas as diferenças em relação ao ramo atual,
+mas não altera nada nesse branch.Já git pull faz o git fetch e faz o merge das diferenças.(fonte:https://pt.stackoverflow.com/questions/3231/qual-a-diferen%C3%A7a-entre-os-comandos-git-pull-e-git-fetch)
 Pergunta: Qual a vantagem de usar Git Flow?
-
-Qual sua principal habilidade em programação hoje?
+Identificar diferentes modificações em diferentes pontos do mesmo projeto(Sabendo da fonte das alterações, no caso quem alterou).
