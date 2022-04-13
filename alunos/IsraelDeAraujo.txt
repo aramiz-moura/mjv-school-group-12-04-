@@ -1,2 +1,6 @@
-email: israelwy63@gmail.com
-email alternativo: israel-w@hotmail.com
+Nome: Israel de Araújo Pimentel
+email: israel-w@hotmail.com
+email alternativo: israelwy63@gmail.com
+Sobre: estudante de programação
+
+Pergunta: Qual sua principal habilidade em programação hoje?
