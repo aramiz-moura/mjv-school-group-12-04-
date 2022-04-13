@@ -4,6 +4,12 @@ guilherme.marani@outlook.com
 
 Meu nome é Guilherme, tenho 27 anos e amo programar!!
 
+<<<<<<< HEAD
 Pergunta: Já jogou Lost Ark ou Diablo3?
 
 Qual sua principal habilidade em programação hoje?
+=======
+[Davy]Pergunta: Já jogou Lost Ark ou Diablo3?
+
+[Davy]Pergunta: PS ou Xbox?
+>>>>>>> 3c15eb8efd6285150b5b62a90f4a7851fcc3782d

@@ -2,4 +2,12 @@ Veronica Souza nunes
 Email: veronica.souza.nunes@hotmail.com
 Em transição de carreira human para tech
 
+<<<<<<< HEAD
 Qual sua principal habilidade em programação hoje?
+=======
+Perguntas:
+
+1- Quantos anos ?
+
+2- Qual é/era sua carreira human ?
+>>>>>>> 3c15eb8efd6285150b5b62a90f4a7851fcc3782d
