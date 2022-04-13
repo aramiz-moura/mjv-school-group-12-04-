@@ -1,6 +1,0 @@
-Nome:Davy Lucas
-Email:davykog2012@gmail.com
-sobre: Gosto de animes e jogos
-
-Pergunta: Qual a diferença entre gitch fetch e git pull?
-Pergunta: Qual a vantagem de usar Git Flow?
