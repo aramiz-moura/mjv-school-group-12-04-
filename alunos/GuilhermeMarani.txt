@@ -13,8 +13,13 @@ Qual sua principal habilidade em programação hoje?
 R: Hoje a minha principal habilidade é o front end, por enquanto rsrs!
 =======
 [Davy]Pergunta: Já jogou Lost Ark ou Diablo3?
+
+[Gui]Resposta:Nunca joguei, mas ja assisti muitas lives de diablo 3
+
 [Davy]Pergunta: PS ou Xbox?
 >>>>>>> 3c15eb8efd6285150b5b62a90f4a7851fcc3782d
+
+[Gui]Resposta:Nenhum dos dois, sou PCzeiro! haha
 =======
 [Davy]Pergunta: Já jogou Lost Ark ou Diablo3?
 
