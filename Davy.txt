@@ -1,3 +1,0 @@
-Nome:Davy Lucas
-idade: 19
-email: davykog2012@gmail.com
